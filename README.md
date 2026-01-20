@@ -1,2 +1,2 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# this is new repo
+<p> this is mohsmmed alsalamah repo</p>
