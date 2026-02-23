@@ -43,29 +43,29 @@ The **Saudi Tourist App** is designed to provide users with a seamless experienc
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/b282b3f9-306c-4a1a-a8d8-c3f4fa383a3e" width="220" />
+      <img src="https://github.com/user-attachments/assets/d708b9b2-a637-4e46-afd6-58505b702cb1" width="220" />
       <br /><b>Home / Explore Screen</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/cb468169-3fc9-4f1b-b6ba-021435521191" width="220" />
+      <img src="https://github.com/user-attachments/assets/ff717e0f-3bbf-40b1-968d-87b2f61f63b8" width="220" />
       <br /><b>Riyadh Details</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/f796e710-5bb0-4781-addb-c5491626b864" width="220" />
+      <img src="https://github.com/user-attachments/assets/ee789e5f-5c6c-4e7d-8b01-8831de779226" width="220" />
       <br /><b>Photo Gallery</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/1ffd549a-c404-4a8b-9528-94b1df18dc09" width="220" />
+      <img src="https://github.com/user-attachments/assets/71e7796e-7d59-4326-8c97-fba8d409590d" width="220" />
       <br /><b>AlUla Details</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/560519a2-ba5c-46b4-a4de-04ed3ed09f99" width="220" />
+      <img src="https://github.com/user-attachments/assets/fb236586-8332-4951-a17e-aa757e559930" width="220" />
       <br /><b>Qassim Details</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/3ebddc8c-dd69-4068-ae5e-a261033a7d01" width="220" />
+      <img src="https://github.com/user-attachments/assets/67a1e2bd-500f-4025-b7d0-554acf479248" width="220" />
       <br /><b>My Favorites List</b>
     </td>
   </tr>
@@ -75,11 +75,11 @@ The **Saudi Tourist App** is designed to provide users with a seamless experienc
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/af59012d-5f51-465f-a849-8ee56ce7f6d0" width="220" />
+      <img src="https://github.com/user-attachments/assets/8fc27dd0-5672-418e-9955-6bd0f61b20ac" width="220" />
       <br /><b>Existing City Modal</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/5a2d6833-74f3-4974-aa49-8ccd0d5a9742" width="220" />
+      <img src="https://github.com/user-attachments/assets/8a0b5365-15e2-498b-a79e-aac5a092f080" width="220" />
       <br /><b>Add New City Flow</b>
     </td>
   </tr>
@@ -91,11 +91,12 @@ The **Saudi Tourist App** is designed to provide users with a seamless experienc
 The application architecture is supported by a relational database on Supabase. Below is a snapshot of the `places` table schema:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b282b3f9-306c-4a1a-a8d8-c3f4fa383a3e" width="850" alt="Supabase Table Screenshot">
+  <img src="https://github.com/user-attachments/assets/d7d9da97-5403-47c9-99b7-1348149bb626" width="850" alt="Supabase Table Screenshot">
   <br /><i>Real-time Database View showing stored destinations and metadata.</i>
 </p>
 
 ---
 **Developed for the Flutter Bootcamp Final Project - Presented by Teacher Mohammed Alawaji.**
+
 
 
