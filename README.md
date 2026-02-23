@@ -33,7 +33,7 @@ The **Saudi Tourist App** is designed to provide users with a seamless experienc
       <br /><b>Login Screen</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/058785a6-3593-4af2-81d7-8d822b651e1b" width="220" />
+      <img src="https://github.com/user-attachments/assets/1bbce8ba-dc14-452c-adf7-5a47c3446c6a" width="220" />
       <br /><b>Sign Up Screen</b>
     </td>
   </tr>
@@ -97,3 +97,4 @@ The application architecture is supported by a relational database on Supabase. 
 
 ---
 **Developed for the Flutter Bootcamp Final Project - Presented by Teacher Mohammed Alawaji.**
+
